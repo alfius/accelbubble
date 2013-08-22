@@ -1,0 +1,1 @@
+Testing application using the [Qt 5.1 for Android](http://qt-project.org) framework, based on the [sample accelbubble application](http://qt-project.org/doc/qtcreator-2.8/creator-android-app-tutorial.html)
